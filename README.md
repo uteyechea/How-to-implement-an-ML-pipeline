@@ -1,10 +1,19 @@
-how_to_implement_an_ML_pipeline
+How to implement an ML pipeline
 ==============================
+Tutorial used to train a student working for his MS thesis. 
 
-Tutorial used to train a new student working for his MS thesis. 
-
-Project Organization
+Introduction of Artificial Intelligence
 ------------
+
+<p><small>Motivating interest and U. Waterloo AI course <a target="_blank" href="https://docs.google.com/document/d/17b-R9q-V9a_nxh-JIGiOoZPU9vL1nF08VIDE1Af50Kg/edit?usp=sharing"> First steps </a></small></p>
+
+
+
+Project Organization 
+------------
+
+<p><small>Tutorial on how to set the folder structure for ML projects <a target="_blank" href="https://medium.com/analytics-vidhya/folder-structure-for-machine-learning-projects-  a7e451a8caaa"> Simple steps to create an automated folder structure </a>. Surya Gutta.</small></p>
+
 
     ├── LICENSE
     ├── Makefile           <- Makefile with commands like `make data` or `make train`
