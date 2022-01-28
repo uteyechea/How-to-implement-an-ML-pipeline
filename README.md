@@ -82,7 +82,7 @@ Using pip freeze -> requirements.txt
 Choose your IDE
 ------------
 
-Visual studio code offers a nice integration with python and your venv.
-Google Colab can be useful during training if you don't have a GPU. https://colab.research.google.com/
+1. Visual studio code offers a nice integration with python and your venv.
+2. Google Colab can be useful during training if you don't have a GPU. https://colab.research.google.com/
 
 
