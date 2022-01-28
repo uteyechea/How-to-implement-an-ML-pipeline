@@ -78,6 +78,7 @@ Setup virtual environment (Python)
 https://docs.python.org/3/library/venv.html#creating-virtual-environments
 Once the venv is setup. Learn how to build your requirements.txt file.
 Using pip freeze -> requirements.txt
+Video tutorial https://www.youtube.com/watch?v=N5vscPTWKOk
 
 Choose your IDE
 ------------
