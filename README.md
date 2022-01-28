@@ -64,3 +64,9 @@ Project Organization
 --------
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+
+
+Setup git account
+------------
+
+<script src="https://gist.github.com/cferdinandi/ef665330286fd5d7127d.js"></script> 
