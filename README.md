@@ -69,4 +69,5 @@ Project Organization
 Setup git account
 ------------
 
-<script src="https://gist.github.com/cferdinandi/ef665330286fd5d7127d.js"></script> 
+Get familiar with commonly used git commands (GitHub)
+https://gist.github.com/cferdinandi/ef665330286fd5d7127d
