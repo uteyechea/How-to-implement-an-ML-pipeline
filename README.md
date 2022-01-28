@@ -12,7 +12,7 @@ Introduction of Artificial Intelligence
 Project Organization 
 ------------
 
-<p><small>Tutorial on how to set the folder structure for ML projects <a target="_blank" href="https://medium.com/analytics-vidhya/folder-structure-for-machine-learning-projects-  a7e451a8caaa"> Simple steps to create an automated folder structure </a>. Surya Gutta.</small></p>
+<p><small>Tutorial on how to set the folder structure for ML projects <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/"> Simple steps to create an automated folder structure </a>. Surya Gutta.</small></p>
 
 
     ├── LICENSE
