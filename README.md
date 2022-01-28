@@ -71,3 +71,18 @@ Setup git account
 
 Get familiar with commonly used git commands (GitHub)
 https://gist.github.com/cferdinandi/ef665330286fd5d7127d
+
+Setup virtual environment (Python)
+------------
+
+https://docs.python.org/3/library/venv.html#creating-virtual-environments
+Once the venv is setup. Learn how to build your requirements.txt file.
+Using pip freeze -> requirements.txt
+
+Choose your IDE
+------------
+
+Visual studio code offers a nice integration with python and your venv.
+Google Colab can be useful during training if you don't have a GPU. https://colab.research.google.com/
+
+
