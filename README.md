@@ -86,3 +86,8 @@ Choose your IDE
 2. Google Colab can be useful during training if you don't have a GPU. https://colab.research.google.com/
 
 
+Stick with a coding standard
+------------
+
+Write code so another person can understand it.
+https://www.python.org/dev/peps/pep-0008/
