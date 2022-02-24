@@ -1,9 +1,9 @@
-# How to implement an ML pipeline.
+# 1 How to implement an ML pipeline.
 We will be working with deep learning. Following in the steps of Ian Goodfellow and his book "Deep Learning" made publicly available at http://www.deeplearningbook.org
 
-# About the development environment.
+# 2 About the development environment.
 
-## 1. Setup your project structure 
+## 2.1 Setup your project structure 
 <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/"> Tutorial on how to set the folder structure for ML projects </a>, based on the cookiecutter data science project template.
 
     ├── LICENSE
@@ -54,21 +54,21 @@ We will be working with deep learning. Following in the steps of Ian Goodfellow 
 --------
 
 
-## 2. Setup git account
+## 2.2 Setup git account
 Get familiar with commonly used git commands (GitHub)
 https://gist.github.com/cferdinandi/ef665330286fd5d7127d
 
-## 3. Setup virtual environment (Python)
+## 2.3 Setup virtual environment (Python)
 https://docs.python.org/3/library/venv.html#creating-virtual-environments
 Once the venv is setup. Learn how to build your requirements.txt file.
 Using pip freeze -> requirements.txt
 Video tutorial https://www.youtube.com/watch?v=N5vscPTWKOk
 
-## 4. Choose your IDE
+## 2.4 Choose your IDE
 1. Visual studio code offers a nice integration with python and your venv.
 2. Google Colaboratory will be useful during training if you don't have a GPU. https://colab.research.google.com/
 
-## 4. Stick with a coding standard
+## 2.5 Stick with a coding standard
 Write code so another person can understand it.
 https://www.python.org/dev/peps/pep-0008/
 
