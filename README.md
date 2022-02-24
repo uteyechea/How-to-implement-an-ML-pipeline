@@ -4,7 +4,7 @@ We will be working with deep learning. Following in the steps of Ian Goodfellow 
 # About the development environment.
 
 ## 1. Setup your project structure 
-<a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/"> Tutorial on how to set the folder structure for ML projects </a>. Project based on the cookiecutter data science project template.
+<a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/"> Tutorial on how to set the folder structure for ML projects </a>, based on the cookiecutter data science project template.
 
     ├── LICENSE
     ├── Makefile           <- Makefile with commands like `make data` or `make train`
@@ -66,7 +66,7 @@ Video tutorial https://www.youtube.com/watch?v=N5vscPTWKOk
 
 ## 4. Choose your IDE
 1. Visual studio code offers a nice integration with python and your venv.
-2. Google Colab can be useful during training if you don't have a GPU. https://colab.research.google.com/
+2. Google Colaboratory will be useful during training if you don't have a GPU. https://colab.research.google.com/
 
 ## 4. Stick with a coding standard
 Write code so another person can understand it.
