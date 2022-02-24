@@ -54,15 +54,15 @@ We will be working with deep learning. Following in the steps of Ian Goodfellow 
 --------
 
 
-## 2.2 Setup git account
+## 2.2. Setup git account
 Get familiar with commonly used git commands (GitHub)
 https://gist.github.com/cferdinandi/ef665330286fd5d7127d
 
 ## 2.3 Setup virtual environment (Python)
 https://docs.python.org/3/library/venv.html#creating-virtual-environments
-Once the venv is setup. Learn how to build your requirements.txt file.
-Using pip freeze -> requirements.txt
-Video tutorial https://www.youtube.com/watch?v=N5vscPTWKOk
+2.3.1. Once the venv is set. Learn how to build your requirements.txt file.
+2.3.2. Using pip freeze -> requirements.txt
+2.3.3. Video tutorial https://www.youtube.com/watch?v=N5vscPTWKOk
 
 ## 2.4 Choose your IDE
 1. Visual studio code offers a nice integration with python and your venv.
