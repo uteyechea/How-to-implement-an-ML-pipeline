@@ -1,8 +1,7 @@
-How to implement an ML pipeline
-==============================
+# How to implement an ML pipeline
 Tutorial used to train a student working for his MS thesis. 
 
-Introduction of Artificial Intelligence
+## 1. Introduction of Artificial Intelligence
 ------------
 
 <p><small>Motivating interest and U. Waterloo AI course <a target="_blank" href="https://docs.google.com/document/d/17b-R9q-V9a_nxh-JIGiOoZPU9vL1nF08VIDE1Af50Kg/edit?usp=sharing"> First steps </a></small></p>
