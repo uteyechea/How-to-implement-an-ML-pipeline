@@ -1,5 +1,5 @@
 # How to implement an ML pipeline
-## We will be working with deep learning. Following in the steps of Ian Goodfellow and his book "Deep Learning" href="http://www.deeplearningbook.org">
+We will be working with deep learning. Following in the steps of Ian Goodfellow and his book "Deep Learning" href="http://www.deeplearningbook.org">
 
 ## 1. Introduction of Artificial Intelligence
 <p><small>Motivating interest and U. Waterloo AI course <a target="_blank" href="https://docs.google.com/document/d/17b-R9q-V9a_nxh-JIGiOoZPU9vL1nF08VIDE1Af50Kg/edit?usp=sharing"> First steps </a></small></p>
