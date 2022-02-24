@@ -1,7 +1,8 @@
 # 1 How to implement an ML pipeline.
+- <a target="_blank" href="https://docs.google.com/presentation/d/1eJx-eST0cNJbmS-5wFSi8R7UWM2mPqA_8Z_UqpCpgHw/edit?usp=sharing"> Introduction to ML development cycle and applications (Spanish).</a>
 We will be working with deep learning. Following in the steps of Ian Goodfellow and his book "Deep Learning" made publicly available at http://www.deeplearningbook.org
-1. <a target="_blank" href="https://docs.google.com/presentation/d/1gelkfmFVxKQNcGDa9o3ryoJbui2ylAFhd6XO53dg5vw/edit?usp=sharing"> Summary slides for Chapter 5.</a>
-2. 
+- <a target="_blank" href="https://docs.google.com/presentation/d/1gelkfmFVxKQNcGDa9o3ryoJbui2ylAFhd6XO53dg5vw/edit?usp=sharing"> Summary slides for Chapter 5.</a>
+- 
 
 
 # 2 About the development environment.
