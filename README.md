@@ -1,5 +1,8 @@
 # 1 How to implement an ML pipeline.
 We will be working with deep learning. Following in the steps of Ian Goodfellow and his book "Deep Learning" made publicly available at http://www.deeplearningbook.org
+1. <a target="_blank" href="https://docs.google.com/presentation/d/1gelkfmFVxKQNcGDa9o3ryoJbui2ylAFhd6XO53dg5vw/edit?usp=sharing"> Summary slides for Chapter 5.</a>
+2. 
+
 
 # 2 About the development environment.
 
@@ -73,6 +76,7 @@ Write code so another person can understand it.
 https://www.python.org/dev/peps/pep-0008/
 
 
+# 3 
 
 
 
