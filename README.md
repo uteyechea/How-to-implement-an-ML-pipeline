@@ -4,7 +4,7 @@ We will be working with deep learning. Following in the steps of Ian Goodfellow 
 # About the development environment.
 
 ## 1. Setup your project structure 
-<p><small>Tutorial on how to set the folder structure for ML projects <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/"> Simple steps to create an automated folder structure </a>. Surya Gutta.</small></p>
+<a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/"> Tutorial on how to set the folder structure for ML projects </a>.
 
 
     ├── LICENSE
