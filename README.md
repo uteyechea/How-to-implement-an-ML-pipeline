@@ -4,8 +4,7 @@ We will be working with deep learning. Following in the steps of Ian Goodfellow 
 # About the development environment.
 
 ## 1. Setup your project structure 
-<a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/"> Tutorial on how to set the folder structure for ML projects </a>. <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
-
+<a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/"> Tutorial on how to set the folder structure for ML projects </a>. Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. 
 
     ├── LICENSE
     ├── Makefile           <- Makefile with commands like `make data` or `make train`
