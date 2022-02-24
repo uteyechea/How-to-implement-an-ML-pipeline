@@ -81,7 +81,9 @@ Write code so another person can understand it.
 https://www.python.org/dev/peps/pep-0008/
 
 
-# 3 
+# 3 Learning to code deep neural networks
+<a target="_blank" href="https://www.tensorflow.org/tutorials/index.html"> Useful programming exercises and tutorials.</a>
+
 
 
 
