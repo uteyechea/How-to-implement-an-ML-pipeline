@@ -1,12 +1,9 @@
-# How to implement an ML pipeline
-We will be working with deep learning. Following in the steps of Ian Goodfellow and his book "Deep Learning" href="http://www.deeplearningbook.org">
+# How to implement an ML pipeline.
+We will be working with deep learning. Following in the steps of Ian Goodfellow and his book "Deep Learning" made publicly available at http://www.deeplearningbook.org
 
-## 1. Introduction of Artificial Intelligence
-<p><small>Motivating interest and U. Waterloo AI course <a target="_blank" href="https://docs.google.com/document/d/17b-R9q-V9a_nxh-JIGiOoZPU9vL1nF08VIDE1Af50Kg/edit?usp=sharing"> First steps </a></small></p>
+# About the development environment.
 
-# 
-
-## 2. Project Organization 
+## 1. Setup your project structure 
 <p><small>Tutorial on how to set the folder structure for ML projects <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/"> Simple steps to create an automated folder structure </a>. Surya Gutta.</small></p>
 
 
@@ -58,25 +55,25 @@ We will be working with deep learning. Following in the steps of Ian Goodfellow 
 --------
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
 
-## 3. Setup git account
+## 2. Setup git account
 Get familiar with commonly used git commands (GitHub)
 https://gist.github.com/cferdinandi/ef665330286fd5d7127d
 
-## 4. Setup virtual environment (Python)
+## 3. Setup virtual environment (Python)
 https://docs.python.org/3/library/venv.html#creating-virtual-environments
 Once the venv is setup. Learn how to build your requirements.txt file.
 Using pip freeze -> requirements.txt
 Video tutorial https://www.youtube.com/watch?v=N5vscPTWKOk
 
-## 5. Choose your IDE
+## 4. Choose your IDE
 1. Visual studio code offers a nice integration with python and your venv.
 2. Google Colab can be useful during training if you don't have a GPU. https://colab.research.google.com/
 
-## 6. Stick with a coding standard
+## 4. Stick with a coding standard
 Write code so another person can understand it.
 https://www.python.org/dev/peps/pep-0008/
 
-## 7. 
+
 
 
 
