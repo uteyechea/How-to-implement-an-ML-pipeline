@@ -4,7 +4,7 @@ We will be working with deep learning. Following in the steps of Ian Goodfellow 
 # About the development environment.
 
 ## 1. Setup your project structure 
-<a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/"> Tutorial on how to set the folder structure for ML projects </a>.
+<a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/"> Tutorial on how to set the folder structure for ML projects </a>. <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
 
 
     ├── LICENSE
@@ -53,7 +53,7 @@ We will be working with deep learning. Following in the steps of Ian Goodfellow 
     └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
 
 --------
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+
 
 ## 2. Setup git account
 Get familiar with commonly used git commands (GitHub)
