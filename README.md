@@ -1,12 +1,5 @@
 # How to implement an ML pipeline
-## We will be working with deep learning. 
-@book{Goodfellow-et-al-2016,
-    title={Deep Learning},
-    author={Ian Goodfellow and Yoshua Bengio and Aaron Courville},
-    publisher={MIT Press},
-    note={\url{http://www.deeplearningbook.org}},
-    year={2016}
-}
+## We will be working with deep learning. Following in the steps of Ian Goodfellow and his book "Deep Learning" href="http://www.deeplearningbook.org">
 
 ## 1. Introduction of Artificial Intelligence
 <p><small>Motivating interest and U. Waterloo AI course <a target="_blank" href="https://docs.google.com/document/d/17b-R9q-V9a_nxh-JIGiOoZPU9vL1nF08VIDE1Af50Kg/edit?usp=sharing"> First steps </a></small></p>
