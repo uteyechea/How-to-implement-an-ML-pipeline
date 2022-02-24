@@ -1,16 +1,19 @@
 # How to implement an ML pipeline
-Tutorial used to train a student working for his MS thesis. 
+## We will be working with deep learning. 
+@book{Goodfellow-et-al-2016,
+    title={Deep Learning},
+    author={Ian Goodfellow and Yoshua Bengio and Aaron Courville},
+    publisher={MIT Press},
+    note={\url{http://www.deeplearningbook.org}},
+    year={2016}
+}
 
 ## 1. Introduction of Artificial Intelligence
-------------
-
 <p><small>Motivating interest and U. Waterloo AI course <a target="_blank" href="https://docs.google.com/document/d/17b-R9q-V9a_nxh-JIGiOoZPU9vL1nF08VIDE1Af50Kg/edit?usp=sharing"> First steps </a></small></p>
 
+# 
 
-
-Project Organization 
-------------
-
+## 2. Project Organization 
 <p><small>Tutorial on how to set the folder structure for ML projects <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/"> Simple steps to create an automated folder structure </a>. Surya Gutta.</small></p>
 
 
@@ -59,35 +62,32 @@ Project Organization
     │
     └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
 
-
 --------
-
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
 
-
-Setup git account
-------------
-
+## 3. Setup git account
 Get familiar with commonly used git commands (GitHub)
 https://gist.github.com/cferdinandi/ef665330286fd5d7127d
 
-Setup virtual environment (Python)
-------------
-
+## 4. Setup virtual environment (Python)
 https://docs.python.org/3/library/venv.html#creating-virtual-environments
 Once the venv is setup. Learn how to build your requirements.txt file.
 Using pip freeze -> requirements.txt
 Video tutorial https://www.youtube.com/watch?v=N5vscPTWKOk
 
-Choose your IDE
-------------
-
+## 5. Choose your IDE
 1. Visual studio code offers a nice integration with python and your venv.
 2. Google Colab can be useful during training if you don't have a GPU. https://colab.research.google.com/
 
-
-Stick with a coding standard
-------------
-
+## 6. Stick with a coding standard
 Write code so another person can understand it.
 https://www.python.org/dev/peps/pep-0008/
+
+## 7. 
+
+
+
+
+
+
+
