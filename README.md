@@ -83,10 +83,11 @@ https://www.python.org/dev/peps/pep-0008/
 
 
 # 3 Learning to code deep neural networks
-<a target="_blank" href="https://www.tensorflow.org/tutorials/index.html"> Useful programming exercises and tutorials.</a>
+<a target="_blank" href="https://www.tensorflow.org/tutorials/index.html"> Useful programming exercises and tutorials for Deep Learning.</a>
 
-1. Make sure you are familiar with python. <a target="_blank" href="https://docs.python.org/3/tutorial/"> The Python tutorial.</a>
-2. 
+1. Make sure you are familiar with python. <a target="_blank" href="https://docs.python.org/3/tutorial/"> The Python tutorial.</a> 
+                                           <a target="_blank" href="https://github.com/uteyechea/How-to-implement-an-ML-pipeline/blob/master/notebooks/A1_python.ipynb"> Exercises.</a>
+3. 
 
 
 
