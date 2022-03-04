@@ -5,7 +5,8 @@
 
 ## 1.2 Book
 We will be working with deep learning. Following in the steps of Ian Goodfellow and his book "Deep Learning" made publicly available at http://www.deeplearningbook.org
-- <a target="_blank" href="https://docs.google.com/presentation/d/1gelkfmFVxKQNcGDa9o3ryoJbui2ylAFhd6XO53dg5vw/edit?usp=sharing"> Summary slides for Chapter 5.</a>
+- <a target="_blank" href="https://docs.google.com/presentation/d/1gelkfmFVxKQNcGDa9o3ryoJbui2ylAFhd6XO53dg5vw/edit?usp=sharing"> Summary slides for Chapter 5.</a> 
+  <a target="_blank" href="https://github.com/uteyechea/How-to-implement-an-ML-pipeline/blob/master/notebooks/ch5_demo.ipynb"> Notebook.</a>
 - 
 
 
