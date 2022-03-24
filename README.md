@@ -3,9 +3,10 @@
 - <a target="_blank" href="https://docs.google.com/presentation/d/1eJx-eST0cNJbmS-5wFSi8R7UWM2mPqA_8Z_UqpCpgHw/edit?usp=sharing"> Slides (Spanish).</a>
 - <a target="_blank" href="https://youtu.be/EqY_yX0dD0M"> Video (Spanish).</a>
 
-## 1.2 Book
+## 1.2 Book, notebooks, and slides.
 We will be working with deep learning. Following in the steps of Ian Goodfellow and his book "Deep Learning" made publicly available at http://www.deeplearningbook.org
-- <a target="_blank" href="https://docs.google.com/presentation/d/1gelkfmFVxKQNcGDa9o3ryoJbui2ylAFhd6XO53dg5vw/edit?usp=sharing"> Summary slides for Chapter 5.</a>
+- <a target="_blank" href="https://docs.google.com/presentation/d/1gelkfmFVxKQNcGDa9o3ryoJbui2ylAFhd6XO53dg5vw/edit?usp=sharing"> Summary slides for Chapter 5.</a> 
+  <a target="_blank" href="https://github.com/uteyechea/How-to-implement-an-ML-pipeline/blob/master/notebooks/ch5_demo.ipynb">  Notebook.</a>
 - 
 
 
@@ -82,9 +83,11 @@ https://www.python.org/dev/peps/pep-0008/
 
 
 # 3 Learning to code deep neural networks
-<a target="_blank" href="https://www.tensorflow.org/tutorials/index.html"> Useful programming exercises and tutorials.</a>
+<a target="_blank" href="https://www.tensorflow.org/tutorials/index.html"> Useful programming exercises and tutorials for Deep Learning.</a>
 
-
+1. Make sure you are familiar with python. <a target="_blank" href="https://docs.python.org/3/tutorial/"> The Python tutorial.</a> 
+                                           <a target="_blank" href="https://github.com/uteyechea/How-to-implement-an-ML-pipeline/blob/master/notebooks/A1_python.ipynb"> Exercises.</a>
+3. 
 
 
 
